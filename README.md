@@ -7,6 +7,8 @@ Gather a comprehensive dataset of traffic sign images. This dataset should inclu
 
 **Data Preprocessing**:
 Clean the dataset to remove any noise, errors, or inconsistencies. This may involve resizing images, removing irrelevant metadata, and standardizing image formats. Augment the dataset by applying transformations such as rotation, translation, scaling, and flipping to increase its size and variability. This helps improve the model's robustness.
+
+
 **Model Selection**:
 Choose appropriate ML and DL algorithms for traffic sign recognition and classification. Common choices include Convolutional Neural Networks (CNNs) for DL and traditional classifiers like Support Vector Machines (SVMs) for ML. Consider pre-trained models for transfer learning to leverage existing architectures and weights, especially if your dataset is limited.
 
